@@ -1,1 +1,1 @@
-this is a c file .abcd
+this is a c file
